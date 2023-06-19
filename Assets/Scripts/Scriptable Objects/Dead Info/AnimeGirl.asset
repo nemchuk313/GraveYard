@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bd1770aa6184b341b03b4b8f0970190, type: 3}
   m_Name: AnimeGirl
   m_EditorClassIdentifier: 
-  name: 
-  surname: 
-  bornYear: 
-  deathYear: 
-  lastWords: 
-  portrait: {fileID: 0}
+  name: Anime
+  surname: Girl
+  bornYear: 1998
+  deathYear: 2023
+  lastWords: Zalupa bila vkusnaia
+  portrait: {fileID: 21300000, guid: 431d9c94767bc4843aa05f20aeb2271c, type: 3}
